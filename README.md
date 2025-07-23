@@ -36,7 +36,7 @@
 - เลือกได้ตามความสนใจ
 
 ## 5. ผลลัพธ์การเรียนรู้รายวิชา (CLO: Course Learning Outcomes)
-แต่ละรายวิชาจะมี CLO ที่สัมพันธ์กับ PLO และระดับ YLO โดยสามารถดูรายละเอียดได้ในเอกสารแนบ [Mapping CLO to PLO and YLO](#mapping-clo-to-plo-and-ylo)
+แต่ละรายวิชาจะมี CLO ที่สัมพันธ์กับ PLO และระดับ YLO โดยสามารถดูรายละเอียดได้ในเอกสารแนบ [Mapping CLO to PLO and YLO](https://github.com/tangmoh001/Computer_Program001/blob/main/PLO.md)
 
 ## 6. Year-Level Outcomes (YLO)
 - **YLO1 (ปี 1):** มีพื้นฐานคณิตศาสตร์ ฟิสิกส์ การเขียนโปรแกรมเบื้องต้น
